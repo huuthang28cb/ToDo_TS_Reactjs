@@ -1,2 +1,2 @@
 # ToDo_TS_Reactjs
-![screenshot](https://github.com/huuthang28cb/Nhom3_IVS_ThucTapChuyenNganh/blob/master/frontend/public/images/home.PNG)
+![screenshot](https://github.com/huuthang28cb/ToDo_TS_Reactjs/blob/master/todo_app/public/todo_image.PNG)
